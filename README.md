@@ -1,4 +1,4 @@
-### 👋"Ola Mundo"! Eu sou Marcos Rocha
+### 👋"Hello World"! Eu sou Marcos Rocha
 
 - 👀 Atualmente estou aprendendo e me desenvolvendo para trabalhar na área da tecnologia
 - ✔ Futuro Desenvolvedor Full Stack 
