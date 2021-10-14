@@ -1,7 +1,7 @@
 ### 👋"Hello World"! Eu sou Marcos Rocha
 
 - 👀 Atualmente estou aprendendo e me desenvolvendo para trabalhar na área da tecnologia
-- ✔ Futuro Desenvolvedor Full Stack 
+- ✔ Futuro Desenvolvedor Sofware
 - 😄 Pronomes: Ele/Dele
 
 <div align="center">
